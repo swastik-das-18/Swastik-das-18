@@ -1,6 +1,6 @@
 ![logo](https://github.com/swastik-das-18/Swastik-das/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm swastik das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack APP Developer from India</h3>
 
 - 🌱 I’m currently learning **python, HTML, CSS, JavaScript**
 
