@@ -1,5 +1,5 @@
 ![logo](https://github.com/swastik-das-18/Swastik-das/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm swastik das</h1>
+<h1 align="center">Hi 👋, I'm  swastik  das</h1>
 <h3 align="center">A passionate Fullstack APP Developer from India</h3>
 
 - 🌱 I’m currently learning **python, HTML, CSS, JavaScript**
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/swastik das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swastik das" height="30" width="40" /></a>
+<a href="[https://instagram.com/swastik das](https://www.instagram.com/_h_u_n_t_e_r.__?igsh=dzlsc3Z6OGpyMWJl)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swastik das" height="30" width="40" /></a>
 </p>
 
 <img  align= "right" alt="coding" width="coding"
